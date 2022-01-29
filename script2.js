@@ -1,9 +1,6 @@
-let name;
-
-name = 'Hello!';
-
-name = 'World!'; 
-
-document.write(name);
+let a = "Welcome";
+alert(a);
+let b = "Have a nice day!"
+alert(b);
 
 
